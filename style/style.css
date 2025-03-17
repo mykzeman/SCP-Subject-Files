@@ -17,11 +17,13 @@ section {
     margin-top:1% ;
     border-radius: 10px;
     text-align: center;
+    padding: 0.5% ;
    
     }
     code {color: #000;
         font-family: 'Courier New', Courier, monospace;
         background-color: #ffffff;
+        padding: 0.5%;
     }
     nav {
         display: flex;
